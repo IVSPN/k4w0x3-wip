@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Kamote",
+		"resourceType": "Bonus",
+		"revealedBy": "Farming",
+		"terrainsCanBeFoundOn": ["Grassland", "Plains", "Hills", "Desert"],
+		"improvement": "Kamotehan",
+		"improvementStats": { "food": 1 },
+		"uniques": [
+			"Organic",
+			"Flora",
+			"Generated on every [4] tiles <in [{Featureless} {Desert}] tiles>",
+			"Generated on every [4] tiles <in [{Featureless} {Desert}] tiles> <in [Hill] Regions>",
+			"Generated on every [8] tiles <in [{Featureless} {Grassland}] tiles>",
+			"Generated on every [8] tiles <in [{Featureless} {Plains}] tiles>",
+			"Generated on every [16] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>",
+			"Generated on every [16] tiles <in [{Featureless} {Plains}] tiles> <in [Hill] Regions>"
+		],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Tubers",
+				"imageSize": 64
+			},
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Agri Farm Tubers",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Pampautot."
+			}
+		]
+	}
+]

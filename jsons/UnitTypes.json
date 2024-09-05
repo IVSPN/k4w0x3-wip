@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Civilian",
+		"movementType": "Land"
+	},
+	{
+		"name": "Soldier",
+		"movementType": "Land"
+	},
+	{
+		"name": "Water",
+		"movementType": "Water"
+	}
+]

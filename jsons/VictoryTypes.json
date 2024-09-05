@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Diplomatic",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Anyone should build [Kamotehan]"],
+        "victoryString": "KAMOTE!",
+        "defeatString": "kamote :("
+    },
+    {
+        "name": "Time",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Have highest score after max turns"],
+        "victoryString": "Yehey",
+        "defeatString": "Sad"
+    }
+]

@@ -1,0 +1,208 @@
+[
+	{
+		"name": "Spectator",
+		"outerColor": [255, 255, 255]
+	},
+
+	{
+		"_____HEADER_____": "NATIONS"
+	},
+
+	{
+		"name": "Ultramarines",
+		"leaderName": "Roboute Guilliman",
+		"adjective": ["Blue"],
+		"startBias": ["Hills"],
+		"personality": "Organized Soldier",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Hello.",
+		"startIntroPart2": "Hi.",
+
+		"declaringWar": ">:(",
+		"attacked": "Ouch.",
+		"defeated": "No.",
+		"introduction": "Sup.",
+
+		"neutralHello": "Yo.",
+		"hateHello": "Hmph.",
+
+		"tradeRequest": "Hm?",
+
+		"outerColor": [126, 192, 253],
+		"innerColor": [4, 55, 242],
+		"favoredReligion": "Imperial Truth",
+		"uniqueName": "Codex Discipline",
+		"uniques": [
+			"Receive a tech boost when scientific buildings/wonders are built in capital",
+			"Science gained from research agreements [+100]%",
+			"[+100]% unhappiness from the number of cities"
+		],
+		"cities": [
+			"Maccrage",
+			"Calth",
+			"Iax",
+			"Konor",
+			"Gantz",
+			"Parmenio",
+			"Espandor",
+			"Andermung",
+			"Prandium",
+			"Protos",
+			"Talassar",
+			"Vespator",
+			"Illyrium",
+			"Quintarn",
+			"Tarentus",
+			"Masali",
+			"Veridia",
+			"Talasa Prime",
+			"Sotha"
+		] ,
+		"spyNames": [
+		]
+		
+	},
+
+	{
+		"_____HEADER_____": "CITY STATES (rename as Chapter)"
+	},
+
+	{
+		"_____HEADER_____": "CULTURAL"
+	},
+
+	{
+		"name": "Neo-Hedonist Enclave",
+		"adjective": ["Neo-Hedonist"],
+		"cityStateType": "Cultural",
+		"startBias": ["Prairie"],
+
+		"declaringWar": "Let's get this party started!",
+		"attacked": "Don't be such a killjoy!",
+		"defeated": "Aww, party's over.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["Neo-Hedonist Enclave"]
+	},
+	
+	{
+		"_____HEADER_____": "AGRICULTURAL"
+	},
+
+	{
+		"name": "Demeter Commune",
+		"adjective": ["Demeter"],
+		"cityStateType": "Agricultural",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [114, 222, 55],
+		"cities": ["Demeter Commune"]
+	},
+	
+	{
+		"_____HEADER_____": "ECONOMIC"
+	},
+
+	{
+		"name": "Sputnik Outpost",
+		"adjective": ["Sputnikian"],
+		"cityStateType": "Economic",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 200, 55],
+		"cities": ["Sputnik Outpost"]
+	},
+	
+	{
+		"_____HEADER_____": "MILITARISTIC"
+	},
+
+	{
+		"name": "Eglon Base",
+		"adjective": ["Eglon"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We will make the first move, then.",
+		"attacked": "We shall mount a counterattack.",
+		"defeated": "We lost, fair and square.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [205, 75, 48],
+		"cities": ["Eglon Base"]
+	},
+	
+	{
+		"_____HEADER_____": "RELIGIOUS"
+	},
+
+	{
+		"name": "Yahiro-Dono Sanctuary",
+		"adjective": ["Yahiro-Dono"],
+		"cityStateType": "Religious",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 200, 222],
+		"cities": ["Yahiro-Dono Sanctuary"]
+	},
+	
+	{
+		"_____HEADER_____": "SCIENTIFIC"
+	},
+
+	{
+		"name": "Borealis Station",
+		"adjective": ["Borealis"],
+		"cityStateType": "Scientific",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "I hope you're prepared for an unforgettable battle!",
+		"attacked": "Attack us? At this time of year, at this time of day, in this part of the planet, localized entirely within our territory?!",
+		"defeated": "Well fought, you are an odd enemy... but you waged a good war.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [55, 123, 208],
+		"cities": ["Borealis Station"]
+	},
+	
+	{
+		"_____HEADER_____": "INDUSTRIAL"
+	},
+
+	{
+		"name": "Ogun Forges",
+		"adjective": ["Ogun"],
+		"cityStateType": "Industrial",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [222, 116, 55],
+		"cities": ["Ogun Forges"]
+	},
+
+	{
+		"_____HEADER_____": "BARBARIAN"
+	},
+
+	{
+		"name": "Barbarians",
+		"style": "xeno",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198, 243, 102],
+		"uniques": ["Can only heal by pillaging"]
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Ignore terrain cost",
+		"uniques": [
+			"[This Unit] ignores terrain cost",
+			"Doing so will consume this opportunity to choose a Promotion"
+		],
+		"unitTypes": [
+			"Land"
+		],
+		"row": 0,
+        "column": 0
+	}
+]

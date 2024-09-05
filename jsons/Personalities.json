@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Organized Solider",
+		"preferredVictoryType": "Diplomatic",
+		"culture": 3,
+		"faith": 3,
+		"food": 5,
+		"gold": 3,
+		"happiness": 5,
+		"production": 5,
+		"science": 8,
+		"military": 5,
+		"aggressive": 3,
+		"declareWar": 3,
+		"commerce": 4,
+		"diplomacy": 3,
+		"loyal": 7,
+		"expansion": 2,
+		"priorities": {
+			"Consolidation": 20,
+			"Ingenuity": 20,
+			"Ascendancy": 10,
+			"Radiant Ideology": 30
+		},
+		
+		"civilopediaText": [
+			{"text": "Text about their tendency."}
+		]
+	}
+	
+]

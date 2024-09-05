@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Unit Sample",
+		"unitType": "Land",
+		"movement": 2,
+		"strength": 5,
+		"cost": 5,
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "MonsterBite",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "Sample of a land unit."
+			}
+		]
+	},
+	{
+		"name": "Namamahay",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 40,
+		"uniques": [
+			"Founds a new city <by consuming this unit>",
+			"Excess Food converted to Production when under construction",
+			"Requires at least [2] population"
+		],
+		"hurryCostModifier": 20,
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "Namamahay aku"
+			}
+		]
+	},
+	{
+		"name": "Sagigilid",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": [
+			"Worker",
+			"Can build [Land] improvements on tiles",
+			"May create improvements on water resources",
+			"Can build [Water] improvements on tiles"
+		],
+		"cost": 40,
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "Sagigilid aku"
+			}
+		]
+	},
+	{
+		"name": "Bayani",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"uniques": [
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "Agbayani."
+			}
+		]
+	}
+]

@@ -1,0 +1,124 @@
+[
+	{
+		"name": "Kamotehan",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Flood plains",
+			"Mycelium"
+		],
+		"food": 1,
+		"turnsToBuild": 1,
+		"techRequired": "Farming",
+		"uniques": [
+			"Agricultural",
+			"Can only be built to improve a resource"
+		],
+		"shortcutKey": "F",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Hydroponics Field",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Amoy bukid."
+			}
+		]
+	},
+
+	{
+		"name": "Ancient Ruins",
+		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"uniques": ["Unpillagable", "Provides a random bonus when entered","Unbuildable"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Crash site",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Something man-made that was once in orbit, brought low by gravity"
+			}
+		]
+	},
+	{
+		"name": "City ruins",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Unbuildable"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City ruins",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{ "text": "A bleak reminder of the cost of waging war" }
+		]
+	},
+	{
+		"name": "City center",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Irremovable","Unbuildable"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City center-Landfall era",
+				"imageSize": 64
+			},
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City center-Exploration era",
+				"imageSize": 64
+			},
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City center-Colonization era",
+				"imageSize": 64
+			},
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City center-Halcyon era",
+				"imageSize": 64
+			},
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City center-Realization era",
+				"imageSize": 64
+			},
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City center-Transcendental era",
+				"imageSize": 64
+			},
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/City center-Singularity era",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{ "text": "Marks the center of a city" },
+			{
+				"text": "Appearance changes with the technological era of the owning civilization"
+			}
+		]
+	},
+	{
+		"name": "Barbarian encampment",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Unbuildable"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Barbarian encampment",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Home to savage Xenos, will spawn a hostile xeno from time to time"
+			}
+		]
+	}
+]

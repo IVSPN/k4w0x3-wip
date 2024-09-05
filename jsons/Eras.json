@@ -1,0 +1,36 @@
+[
+	{
+		"name": "The First Founding",
+		"researchAgreementCost": 150,
+		"startingSettlerCount": 1,
+		"startingSettlerUnit": "Namamahay",
+		"startingWorkerCount": 0,
+		"startingWorkerUnit": "Sagigilid",
+		"startingMilitaryUnitCount": 1,
+		"startingMilitaryUnit": "Bayani",
+		"settlerPopulation": 1,
+		"baseUnitBuyCost": 200,
+		"embarkDefense": 3,
+		"startPercent": 0,
+		"citySound": "cityLandfall",
+		"iconRGB": [255, 87, 35]
+	},
+	{
+		"name": "Age of Discovery",
+		"researchAgreementCost": 150,
+		"startingSettlerCount": 1,
+		"startingSettlerUnit": "Namamahay",
+		"startingWorkerCount": 0,
+		"startingWorkerUnit": "Sagigilid",
+		"startingMilitaryUnitCount": 2,
+		"startingMilitaryUnit": "Bayani",
+		"startingGold": 10,
+		"startingCulture": 100,
+		"settlerPopulation": 1,
+		"baseUnitBuyCost": 200,
+		"embarkDefense": 4,
+		"startPercent": 10,
+		"citySound": "cityExploration",
+		"iconRGB": [233, 31, 99]
+	}
+]
